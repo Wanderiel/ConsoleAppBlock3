@@ -1,0 +1,15 @@
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\bin\Debug\net6.0\ConsoleAppB3P8.exe
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\bin\Debug\net6.0\ConsoleAppB3P8.deps.json
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\bin\Debug\net6.0\ConsoleAppB3P8.runtimeconfig.json
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\bin\Debug\net6.0\ConsoleAppB3P8.dll
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\bin\Debug\net6.0\ConsoleAppB3P8.pdb
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.csproj.AssemblyReference.cache
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.AssemblyInfoInputs.cache
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.AssemblyInfo.cs
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.csproj.CoreCompileInputs.cache
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.dll
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\refint\ConsoleAppB3P8.dll
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.pdb
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ConsoleAppB3P8.genruntimeconfig.cache
+C:\VS Projects\iJunior\ConsoleAppB3\ConsoleAppB3P8\obj\Debug\net6.0\ref\ConsoleAppB3P8.dll

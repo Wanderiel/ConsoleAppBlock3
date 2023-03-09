@@ -15,9 +15,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB3P5", "ConsoleAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB3P6", "ConsoleAppB3P6\ConsoleAppB3P6.csproj", "{4AEF8B13-0AD7-48E0-8B91-920926D7FBC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB3P7", "ConsoleAppB3P7\ConsoleAppB3P7.csproj", "{963C748B-E9DC-41E1-9720-73583EA3EDB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB3P7", "ConsoleAppB3P7\ConsoleAppB3P7.csproj", "{963C748B-E9DC-41E1-9720-73583EA3EDB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppB3P8", "ConsoleAppB3P8\ConsoleAppB3P8.csproj", "{13D48294-3EED-4E9A-976E-A1B44D6FF101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppB3P8", "ConsoleAppB3P8\ConsoleAppB3P8.csproj", "{13D48294-3EED-4E9A-976E-A1B44D6FF101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5A0B2488-E304-41DD-A423-749137FB1AF0}"
+	ProjectSection(SolutionItems) = preProject
+		Challenge.txt = Challenge.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
